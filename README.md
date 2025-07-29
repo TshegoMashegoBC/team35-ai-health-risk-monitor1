@@ -98,10 +98,10 @@ Deployment
 > Deployment in progress. We plan to deploy via Docker + Azure App Service.
 Dockerfile and instructions will be added soon.
 
-Team Members
-Busisiwe Radebe
-Tshegofatso Mashego
-Kagiso Sebati
-Nolwazi Nhlabathi
+Team Members:
+Busisiwe Radebe; 
+Tshegofatso Mashego; 
+Kagiso Sebati; 
+Nolwazi Nhlabathi; 
 Tinyiko Mnisi
  
