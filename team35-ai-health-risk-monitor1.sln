@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36301.6 d17.14
+VisualStudioVersion = 17.14.36301.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "team35-ai-health-risk-monitor1.client", "team35-ai-health-risk-monitor1.client\team35-ai-health-risk-monitor1.client.esproj", "{79782373-F9CF-8717-6192-355CFECF2BEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "team35-ai-health-risk-monitor1.Server", "team35-ai-health-risk-monitor1.Server\team35-ai-health-risk-monitor1.Server.csproj", "{B32F007C-C7D6-4838-B53F-40366FF1FBA9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "team35-ai-health-risk-monitor1.Server", "team35-ai-health-risk-monitor1.Server\team35-ai-health-risk-monitor1.Server.csproj", "{B32F007C-C7D6-4838-B53F-40366FF1FBA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthRiskMonitor.Tests", "HealthRiskMonitor.Tests\HealthRiskMonitor.Tests.csproj", "{8D645AD0-CE03-4A91-B555-90CC1968976A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,6 +25,10 @@ Global
 		{B32F007C-C7D6-4838-B53F-40366FF1FBA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B32F007C-C7D6-4838-B53F-40366FF1FBA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B32F007C-C7D6-4838-B53F-40366FF1FBA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D645AD0-CE03-4A91-B555-90CC1968976A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D645AD0-CE03-4A91-B555-90CC1968976A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D645AD0-CE03-4A91-B555-90CC1968976A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D645AD0-CE03-4A91-B555-90CC1968976A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
