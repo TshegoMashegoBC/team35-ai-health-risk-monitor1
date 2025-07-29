@@ -44,12 +44,12 @@ It should expose the API at:
 https://localhost:5001
 ```
 
----
+
 
 Health Check
 
 Visit:
-Schema diagram.png
+AI-Health database.sql
 to confirm the database connection is active.
 
 
