@@ -49,9 +49,7 @@ https://localhost:5001
 Health Check
 
 Visit:
-```
-https://localhost:5001/health
-```
+Schema diagram.png
 to confirm the database connection is active.
 
 
