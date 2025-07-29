@@ -62,8 +62,32 @@ Authentication
 
 Tests
 
-To run backend tests:
+HealthRiskMonitor Test Suite
+
+Overview
+
+This project contains automated unit and integration tests for HealthRiskMonitor application.
+
+ Structure
+
+- AuthTests.cs: Authentication related tests.
+- ProfileTests.cs: User profile related tests.
+- TestHelpers/: Contains test helpers and mocks.
+
+ Writing Tests
+
+- Use NUnit framework.
+- Test classes should be public and decorated with [TestFixture].
+- Test methods must be public and decorated with [Test].
+- Use clear and descriptive test method names.
+
+ Running Tests
+
+Use the following commands:
+
 ```bash
+dotnet restore
+dotnet build
 dotnet test
 ```
 
@@ -93,7 +117,9 @@ Diagnostic Tests (CRUD)
 
 Deployment
 
-> Deployment in progress. We plan to deploy via Git
+Deployment in progress. We plan to deploy via Git
+
+
 
 Team Members:
 Busisiwe Radebe; 
