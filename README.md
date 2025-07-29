@@ -93,8 +93,7 @@ Diagnostic Tests (CRUD)
 
 Deployment
 
-> Deployment in progress. We plan to deploy via Docker + Azure App Service.
-Dockerfile and instructions will be added soon.
+> Deployment in progress. We plan to deploy via Git
 
 Team Members:
 Busisiwe Radebe; 
